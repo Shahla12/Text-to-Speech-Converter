@@ -33,4 +33,5 @@ This is a simple and intuitive desktop application that converts text input into
 
 Here's a glimpse of the application in action:
 
-![Text-to-Speech Converter Application Screenshot](./Screenshot (192).png)
+![Text-to-Speech Converter Application Screenshot](./screenshot.png)
+

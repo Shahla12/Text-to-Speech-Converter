@@ -29,9 +29,4 @@ This is a simple and intuitive desktop application that converts text input into
     python your_app_file_name.py # Replace 'your_app_file_name.py' with your actual Python script name
     ```
 
-## 📸 Screenshot
-
-Here's a glimpse of the application in action:
-
-![Text-to-Speech Converter Application Screenshot](./screenshot.png)
 
